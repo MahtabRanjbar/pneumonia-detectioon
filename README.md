@@ -21,13 +21,13 @@ This project aims to classify `Chest X-Ray` images as either `Normal` or `Pneumo
 1. Clone this repository to your local machine:
 
    ```sh
-   git clone https://github.com/MahtabRanjbar/TumorDetectAI.git
+   git clone git@github.com:MahtabRanjbar/pneumonia-detectioon.git
    ```
 
 2. Navigate to the project directory:
 
    ```sh
-   cd Brain-tumor-detection-app
+   cd/pneumonia-detectioon
 
    ```
 
