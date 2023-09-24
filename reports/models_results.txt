@@ -1,0 +1,11 @@
+model	val_accuracy	accuracy (test set)	Training time (sec)
+ResNet50	0.9656	0.9167	103.32
+EfficientNetB7	0.9675	0.8942	119.07
+MobileNetV3Large	0.9675	0.8878	103.54
+VGG19	0.8987	0.8734	104.78
+ResNet101	0.9522	0.8558	111.31
+InceptionV3	0.8451	0.8317	106.13
+DenseNet121	0.891	0.766	151.21
+MobileNetV2	0.9216	0.7147	104.2
+InceptionResNetV2	0.7323	0.6266	119.25
+Xception	0.7113	0.5625	105.56
